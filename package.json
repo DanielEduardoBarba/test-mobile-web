@@ -1,7 +1,7 @@
 {
   "name": "mobile-web-test",
   "version": "0.1.0",
-  "homepage": "https://DanielEduardoBarbagithub.io/test-mobile-web",
+  "homepage": "https://DanielEduardoBarba.github.io/test-mobile-web",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
